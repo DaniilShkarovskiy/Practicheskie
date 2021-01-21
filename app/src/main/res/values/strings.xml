@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practicheskie</string>
+    <string name="james">James</string>
+    <string name="jhon">Jhon</string>
+    <string name="marta">Marta</string>
+    <string name="gretta">Gretta</string>
+    <string name="cat">Cat</string>
+    <string name="david">David</string>
+    <string name="todo">TODO</string>
+    <string name="Kontakt">Контакты</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
